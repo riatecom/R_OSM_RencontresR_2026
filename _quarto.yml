@@ -1,0 +1,4 @@
+project:
+  output-dir: public
+  lib-dir: libs
+editor: source

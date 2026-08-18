@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+modele_RR.pdf
+.positai
+prez.html
+prez_files
+cache/*
+public/
+/.quarto/
+**/*.quarto_ipynb
