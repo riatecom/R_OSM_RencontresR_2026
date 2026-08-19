@@ -10,3 +10,7 @@
 ## Auteurs
 
 *Louis Laurian, Timothée Giraud*
+
+## Supports
+
+Lien vers la présentation : https://riatecom.github.io/R_OSM_RencontresR_2026/.
